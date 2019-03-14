@@ -1,4 +1,4 @@
-package lt.v;
+package lt.v.model;
 
 import lombok.Data;
 import lombok.NonNull;
